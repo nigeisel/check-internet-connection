@@ -1,0 +1,8 @@
+date,checked_servers,cmd,status
+
+1558724819, google.com facebook.com yahoo.com amazon.de 8.8.8.8 1.1.1.1 taobao.com, ping -c 1, DOWN
+
+1558724829, google.com facebook.com yahoo.com amazon.de 8.8.8.8 1.1.1.1 taobao.com, ping -c 1, DOWN
+
+1558724839, google.com facebook.com yahoo.com amazon.de 8.8.8.8 1.1.1.1 taobao.com, ping -c 1, DOWN
+
