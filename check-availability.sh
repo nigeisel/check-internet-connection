@@ -21,6 +21,6 @@ for server in "${servers[@]}"; do
 done
 
 echo "Internet Connection down, none of (${servers[*]}) are accessible"
-echo "$(date), ${servers[*]}, ping -c 1, DOWN" >> "$LOGFILE"
+echo -e "$(date),${servers[*]},ping -c 1,DOWN" >> "$LOGFILE"
 
 exit 1
