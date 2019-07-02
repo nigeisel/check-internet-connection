@@ -14,4 +14,4 @@ df = df.iloc[:,0]
 
 # plot heatmap
 calmap.yearplot(df, year=2019)
-plt.show()
+plt.savefig('./heatmap.png')
